@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>dieffrei@gmail.com</contactEmail>
+    <label>Electron</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost</callbackUrl>
+        <consumerKey>3MVG9er.T8KbeePSNn0AiQY2h8GsVA7Fyz_n8xBKssTEG5KmA0KlVJ5FBdOgk1MDBJPgodSZ46w==</consumerKey>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>
