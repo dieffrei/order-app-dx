@@ -16,7 +16,7 @@
             <targetReference>isChangedDecision2_myRule_1_StageName</targetReference>
         </connector>
     </assignments>
-    <decisions>
+    <decisions>  
         <name>isChangedDecision2_myRule_1_StageName</name>
         <label>isChangedDecision2_myRule_1_StageName</label>
         <locationX>0</locationX>
